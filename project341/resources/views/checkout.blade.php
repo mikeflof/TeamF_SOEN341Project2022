@@ -42,7 +42,7 @@ foreach (\Cart::getContent() as $item) {
     <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
     <link rel="stylesheet" href="vendors/nice-select/nice-select.css">
     <link rel="stylesheet" href="vendors/nouislider/nouislider.min.css">
-
+ 
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
