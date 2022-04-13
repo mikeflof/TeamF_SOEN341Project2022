@@ -8,8 +8,8 @@
 
   <!-- ================ start banner area ================= -->
   <section class="blog-banner-area" id="category">
-      <div class="container h-100">
-          <div class="blog-banner">
+      <div class="container h-100"> 
+          <div class="blog-banner"> 
               <div class="text-center">
                   <h1>Shop Phones</h1>
                   <nav aria-label="breadcrumb" class="banner-breadcrumb">
